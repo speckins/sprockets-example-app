@@ -1,1 +1,3 @@
-document.getElementById("result").innerHTML = "Pass";
+$(function () {
+	$("#result").innerHTML = "Pass";
+});
